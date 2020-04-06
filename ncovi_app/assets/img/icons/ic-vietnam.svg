@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="vietnam_icon" data-name="vietnam icon" transform="translate(-164 -605)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(164 605)" fill="#fff" stroke="#000" stroke-width="1">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.5" fill="none"/>
+    </g>
+    <path id="Icon_ionic-md-star" data-name="Icon ionic-md-star" d="M8.531,11.735,11.457,13.5l-.774-3.33,2.583-2.239-3.4-.292L8.531,4.5,7.2,7.639l-3.4.292L6.38,10.17,5.605,13.5Z" transform="translate(164.203 604.5)"/>
+  </g>
+</svg>
